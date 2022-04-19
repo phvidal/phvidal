@@ -1,7 +1,7 @@
 ### Olá mundo!!! Me chamo Paulo Vidal 👋
 
 
-- 🔭 Hoje estou em busca de uma chance na área da programação, ainda não trabalho com isso, mas sei que embreve farei parte desse mundo!!!
+- 🔭 Hoje estou em busca de uma chance na área da programação, ainda não trabalho com isso, mas sei que em breve farei parte desse mundo!!!
 - 🌱 Estou estudando HTML, CSS, Javascript, React JS, Node JS e Bootstrap.
 - 🤔 Em busca da minha primeira oportunidade, se souber de algo, ou puder me ajudar com dicas, me chama lá no LinkedIn [Paulo Vidal](https://www.linkedin.com/in/paulo-henrique-vidal/)
 - 😄 Pronomes: ele/dele
